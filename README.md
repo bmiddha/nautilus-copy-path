@@ -25,3 +25,7 @@ sudo apt install python3-nautilus
 ```
 
 Reopen Files after installation.
+
+## License
+
+[MIT](LICENSE)
